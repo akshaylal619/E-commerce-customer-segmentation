@@ -67,10 +67,10 @@ The scores are combined into an RFM Score (e.g., `555`, `431`, etc.)
 
 ## Key Insights
 
-- **Champions (15%)** contributed nearly 40% of total revenue  
-- **Loyal Customers (20%)** show stable purchasing behavior  
-- **At Risk (25%)** can be re-engaged through special offers  
-- **Lost (10%)** may benefit from win-back campaigns
+- **Champions (31.3)** contributed nearly 40% of total revenue  
+- **Loyal Customers (24%)** show stable purchasing behavior  
+- **Potential loyalist (22.6%)** can be re-engaged through special offers  
+- **Needs attention (22.1)** may benefit from win-back campaigns
 
 ---
 
